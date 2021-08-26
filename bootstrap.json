@@ -37,7 +37,7 @@
 			"plugins": ["net.runelite.client.plugins.deathparty.DeathPartyPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/DeathParty.jar",
-			"hash": "0db8044e9ba574a14675d12da68b1c6fae1d981b6b22b38079902baa00ccaa7c",
+			"hash": "a74b5e1c3f7e282df31e7179b3eda36d0ad18ac6c0875480463af4eefc3e190e",
 			"description": "Make sure the whole team is having fun when someone dies. Fireworks on death for all nearby players."
 		}
 	]
