@@ -1,37 +1,45 @@
 {
-    "artifacts": [
-		    {
-		    	  "name": "CliqueMorph.jar",
-		    	  "plugins": ["net.runelite.client.plugins.cliquemorph.CliqueMorphPlugin"],
-		    	  "version": "1.0",
-		    	  "path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/CliqueMorph.jar",
-		    	  "hash": "52656f9b60b3d19d663e0689ce436a9b0c8d58dbc9f8d96041cab72e7dd49048",
-		    	  "description": "Make sure your clique looks good, and more importantly, that other cliques don't."
-		    },
-		    {
-		    	  "name": "EDMTags.jar",
-		    	  "plugins": ["net.runelite.client.plugins.edmtags.EDMTagsPlugin"],
-		    	  "version": "1.0",
-		    	  "path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/EDMTags.jar",
-		    	  "hash": "2f2c6d0d00b81bcd701b3bee67fec0d49a20e2d453377d0b8c6dccc0481d603f",
-		    	  "description": "The best version of inventory tags with a mild seizure warning."
-		    },
-		    {
+	"artifacts": [
+		{
+			"name": "CliqueMorph.jar",
+			"plugins": ["net.runelite.client.plugins.cliquemorph.CliqueMorphPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/CliqueMorph.jar",
+			"hash": "52656f9b60b3d19d663e0689ce436a9b0c8d58dbc9f8d96041cab72e7dd49048",
+			"description": "Make sure your clique looks good, and more importantly, that other cliques don't."
+		},
+		{
+			"name": "EDMTags.jar",
+			"plugins": ["net.runelite.client.plugins.edmtags.EDMTagsPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/EDMTags.jar",
+			"hash": "2f2c6d0d00b81bcd701b3bee67fec0d49a20e2d453377d0b8c6dccc0481d603f",
+			"description": "The best version of inventory tags with a mild seizure warning."
+		},
+		{
 		        "name": "InfernoWaves.jar",
 		        "plugins": ["net.runelite.client.plugins.infernowaves.InfernoWavesPlugin"],
 		        "version": "0.9",
 		        "path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/InfernoWaves.jar",
 		        "hash": "a9abf7aceed01f52855f4e63b470139824a4c7fd436c8d456b7490473bfc5350",
 		        "description": "Displays the current wave as well as most recent split time in an overlay."
-		    },
-		    {
+		},
+		{
 		        "name": "LactoseIntolerance.jar",
 		        "plugins": ["net.runelite.client.plugins.lactoseintolerance.LactoseIntolerancePlugin"],
 		        "version": "1.0",
 		        "path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/LactoseIntolerance.jar",
 		        "hash": "87639bb95590d7822c8c5bfdbe0842b9207bec77e547b77de8357b73736354f8",
 		        "description": "Elitist plugin to warn you when you're too close to a cheese cape."
-		    }
-    ]
+		},
+		{
+			"name": "DeathParty.jar",
+			"plugins": ["net.runelite.client.plugins.deathparty.DeathPartyPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/DeathParty.jar",
+			"hash": "0db8044e9ba574a14675d12da68b1c6fae1d981b6b22b38079902baa00ccaa7c",
+			"description": "Make sure the whole team is having fun when someone dies. Fireworks on death for all nearby players."
+		}
+	]
 }
     
