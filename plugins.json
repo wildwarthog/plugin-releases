@@ -9,9 +9,9 @@
       {
         "date":"2021-09-30",
         "sha512sum":"85A049D4459EE286B60B504AC559E2D688079F7CE67E7EF9CF944670E349FECAC3B5CDD70DD31528525FD1FE3CB636F8478D6F9A525B38296A682160F4F01F33",
-        "version":"0.1.0",
+        "version":"4.0.0",
         "url":"https://github.com/wildwarthog/plugin-releases/raw/main/releases/CliqueMorph.jar?raw=true",
-        "requires":"4.0.0"
+        "requires":"^1.0.0"
       }
     ]
   },
@@ -25,9 +25,9 @@
       {
         "date":"2020-06-18",
         "sha512sum":"541613F393160AD469851E5C86EF5A30FD73A960FD1941E86D79ECA215AEFD1ADBA2E969EC0132E04D485B04BC559547217194EB3BB23ED3015696F8BE9BE356",
-        "version":"0.1.0",
+        "version":"4.0.0",
         "url":"https://github.com/wildwarthog/plugin-releases/raw/main/releases/DeathParty.jar?raw=true",
-        "requires":"4.0.0"
+        "requires":"^1.0.0"
       }
     ]
   }
