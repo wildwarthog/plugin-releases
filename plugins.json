@@ -1,6 +1,6 @@
 [
   {
-    "projectUrl":"https://discord.gg/OpenOSRS",
+    "projectUrl":"https://discord.gg/greenbandits",
     "provider":"WildWarthog",
     "name":"Clique Morph",
     "description":"Make sure your clique looks good, and more importantly, that other cliques don't.",
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "projectUrl":"https://discord.gg/OpenOSRS",
+    "projectUrl":"https://discord.gg/greenbandits",
     "provider":"WildWarthog",
     "name":"Death Party",
     "description":"Make sure the whole team is having fun when someone dies. Fireworks on death for all nearby players.",
@@ -27,6 +27,54 @@
         "sha512sum":"577BDC20CA930E76668B1ED7A8D6E189F9B1DB7898CD25EAB89F9B1084ADCAFB8B6BB211EF5E4BAE31CB8B7807DB78E56FB582B256FF51C022D7B439AAE6C652",
         "version":"4.0.0",
         "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/deathparty-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"EDM Tags",
+    "description":"The best version of inventory tags with a mild seizure warning.",
+    "id":"deathparty-plugin",
+    "releases":[
+      {
+        "date":"2021-09-30",
+        "sha512sum":"E48254C5DB3C484F9546E5C7760CA76339A067E7215463996D80E93162BF0A85A8E5CA29151F7C74A105DD121EFE9FE4555C566870881F7B9D03B3E862B15EAB",
+        "version":"4.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/edmtags-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Lactose Intolerance",
+    "description":"Elitist plugin to warn you when you're too close to a cheese cape.",
+    "id":"lactoseintolerance-plugin",
+    "releases":[
+      {
+        "date":"2021-09-30",
+        "sha512sum":"B0BC7A4BDAF530FDE9EA69B62BB8E0FE02813AC09D9A6CCE017BE65E3678A827C72DC09D5774B13D700D19451BC00BF92C10E60D5550DB8CAC4935469C5F80F8",
+        "version":"4.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/lactoseintolerance-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Inferno Waves",
+    "description":"Displays the current wave as well as most recent split time in an overlay.",
+    "id":"infernowaves-plugin",
+    "releases":[
+      {
+        "date":"2021-09-30",
+        "sha512sum":"649942EAB0EA1F55EC8C0B037100B5FBB0BFF76A09835869944A5CB6414CED78353FA7D161577D7D6749C448D3A030D3BBCB22A349AC632E0B9CF44E88AEAE98",
+        "version":"4.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernowaves-0.0.1.jar?raw=true",
         "requires":"^1.0.0"
       }
     ]
