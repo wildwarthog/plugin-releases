@@ -36,7 +36,7 @@
     "provider":"WildWarthog",
     "name":"EDM Tags",
     "description":"The best version of inventory tags with a mild seizure warning.",
-    "id":"deathparty-plugin",
+    "id":"edmtags-plugin",
     "releases":[
       {
         "date":"2021-09-30",
