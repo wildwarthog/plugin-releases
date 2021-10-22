@@ -84,7 +84,7 @@
     "provider":"WildWarthog",
     "name":"Inferno HP Tracking",
     "description":"Marks Inferno NPCs and shows their current HP remaining. Based off of plugin made by naabe with minor QOL improvements added.",
-    "id":"infernowaves-plugin",
+    "id":"infernohptracking-plugin",
     "releases":[
       {
         "date":"2021-10-22",
