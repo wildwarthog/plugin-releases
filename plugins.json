@@ -78,5 +78,37 @@
         "requires":"^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Inferno HP Tracking",
+    "description":"Marks Inferno NPCs and shows their current HP remaining. Based off of plugin made by naabe with minor QOL improvements added.",
+    "id":"infernowaves-plugin",
+    "releases":[
+      {
+        "date":"2021-10-22",
+        "sha512sum":"363de2e9945bd17174255660214e3374c0d133d67dda2b9a3f3d84dd448e563c4540a12c428b20c7041db5699e48e05447d531d6b3e11c0befd62525fa67371e",
+        "version":"4.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"All Scythes Holy",
+    "description":"Tmorph all scythe variants to holy scythe so that all scythes may be blessed with the golden tench.",
+    "id":"allscythesholy-plugin",
+    "releases":[
+      {
+        "date":"2021-10-22",
+        "sha512sum":"b98126945dc3e21a6ae7a7f8756294f7ce9abbb0b421ed60048b907e13b6dbe023cbfc77c6c52006591df4cd2457d83a8e76ee14a3eaa0818325651ec2ada75e",
+        "version":"4.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/allscythesholy-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
   }
 ]
