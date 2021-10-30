@@ -99,6 +99,13 @@
         "version":"0.0.2",
         "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.2.jar?raw=true",
         "requires":"^1.0.0"
+      },
+      {
+        "date":"2021-10-30",
+        "sha512sum":"DA32BA1641E524922CD3451C99F81F36716C4D601AA61CCB4BDE573652930F2A388C394621176F864A95A2D9205907E721FD1E8173B7F56D151262D0409146B6",
+        "version":"0.0.3",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.3.jar?raw=true",
+        "requires":"^1.0.0"
       }
     ]
   },
