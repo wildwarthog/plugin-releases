@@ -39,6 +39,14 @@
 			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/DeathParty.jar",
 			"hash": "a74b5e1c3f7e282df31e7179b3eda36d0ad18ac6c0875480463af4eefc3e190e",
 			"description": "Make sure the whole team is having fun when someone dies. Fireworks on death for all nearby players."
+		},
+		{
+			"name": "InfernoHPTracking.jar",
+			"plugins": ["net.runelite.client.plugins.infernohptracking.InfernoHPTrackingPlugin"],
+			"version": "0.0.3",
+			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/InfernoHPTracking.jar",
+			"hash": "FA643FB564E1BC07173C65C0038835AED8854A725AB52BCD98A83EB999270A77",
+			"description": "Marks Inferno NPCs and shows their current HP remaining. Based off of plugin made by naabe with minor QOL improvements added."
 		}
 	]
 }
