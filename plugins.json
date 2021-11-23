@@ -124,5 +124,21 @@
         "requires":"^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Cheese Entity Hider",
+    "description":"If anyone wears a fire cape once they are just banned from existence.",
+    "id":"cheeseentityhider-plugin",
+    "releases":[
+      {
+        "date":"2021-11-23",
+        "sha512sum":"0E6AC09464D77D5E0CD534D80921982B1AE97952FF5DCA07A5322B7164CB4ADF70E3DA53BEFF33B526CD9F9A580F4B4E25E49BB8BB0A463CF730E753410790B3",
+        "version":"4.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/cheeseentityhider-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
   }
 ]
