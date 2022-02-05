@@ -154,5 +154,21 @@
         "requires":"^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Blackout",
+    "description":"Blacks out everything except overlays and interfaces.",
+    "id":"blackout-plugin",
+    "releases":[
+      {
+        "date":"2022-02-05",
+        "sha512sum":"D42FA39D51A69649A45A998D4CD9E078BD193C4735E2549B2E2B1DA0AB405D43FA719E18E6BFBA78A22E1E5E1B7527D5DA3AB32796DEB545339EC57FE50EF5A2",
+        "version":"0.0.1",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/blackout-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
   }
 ]
