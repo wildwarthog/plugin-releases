@@ -170,5 +170,21 @@
         "requires":"^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Skiing",
+    "description":"Ski all the time!",
+    "id":"skiing-plugin",
+    "releases":[
+      {
+        "date":"2022-02-05",
+        "sha512sum":"4DE7197B7832B9C718206CF3EB3B7539D795F037AAF323C9796754F77D75851174470CF8E8F642240B62F0178FAB02A36DBA6C8ACC2865DA144BF357C3BDE5C8",
+        "version":"0.0.1",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/skiing-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
   }
 ]
