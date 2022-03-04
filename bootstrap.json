@@ -47,6 +47,14 @@
 			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/InfernoHPTracking.jar",
 			"hash": "FA643FB564E1BC07173C65C0038835AED8854A725AB52BCD98A83EB999270A77",
 			"description": "Marks Inferno NPCs and shows their current HP remaining. Based off of plugin made by naabe with minor QOL improvements added."
+		},
+		{
+			"name": "SkiingSteroid.jar",
+			"plugins": ["net.runelite.client.plugins.skiing.SkiingPlugin"],
+			"version": "1.2",
+			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/SkiingSteroid.jar",
+			"hash": "0C004BB64841F4390303A8351285B81EA61B7A09813E8A8A5AB3983301531C7B",
+			"description": "Ski all the time!"
 		}
 	]
 }
