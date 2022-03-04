@@ -53,7 +53,7 @@
 			"plugins": ["net.runelite.client.plugins.skiing.SkiingPlugin"],
 			"version": "1.2",
 			"path": "https://github.com/wildwarthog/plugin-releases/raw/main/releases/SkiingSteroid.jar",
-			"hash": "0C004BB64841F4390303A8351285B81EA61B7A09813E8A8A5AB3983301531C7B",
+			"hash": "3C910BCCA2FD5E9A2217FFF4775BBD76E44562FFDB6DE3EDAD52F5FDFCCAA904",
 			"description": "Ski all the time!"
 		}
 	]
