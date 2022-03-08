@@ -82,6 +82,50 @@
   {
     "projectUrl":"https://discord.gg/greenbandits",
     "provider":"WildWarthog",
+    "name":"Inferno HP Tracking",
+    "description":"Marks Inferno/Fight Cave NPCs and shows their current HP remaining. Based off of plugin made by naabe with minor QOL improvements added.",
+    "id":"infernohptracking-plugin",
+    "releases":[
+      {
+        "date":"2021-10-22",
+        "sha512sum":"363de2e9945bd17174255660214e3374c0d133d67dda2b9a3f3d84dd448e563c4540a12c428b20c7041db5699e48e05447d531d6b3e11c0befd62525fa67371e",
+        "version":"0.0.1",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      },
+      {
+        "date":"2021-10-26",
+        "sha512sum":"d2184926184a855a3bbef1588e8791d3843ca3944aedd2422c2f41054177bf355238de1e3a85b2f3a36998c8eaf8a69e613e4c3493a06e3c98cf40019e5e2d90",
+        "version":"0.0.2",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.2.jar?raw=true",
+        "requires":"^1.0.0"
+      },
+      {
+        "date":"2021-10-30",
+        "sha512sum":"DA32BA1641E524922CD3451C99F81F36716C4D601AA61CCB4BDE573652930F2A388C394621176F864A95A2D9205907E721FD1E8173B7F56D151262D0409146B6",
+        "version":"0.0.3",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.3.jar?raw=true",
+        "requires":"^1.0.0"
+      },
+      {
+        "date":"2021-12-20",
+        "sha512sum":"BCF1D5510AADC8BA4F07826EF10E07B695324AE0EF50AE320AAC974FFA152C69CBBBC61B963C9A6A4ACF499C96E2A65BD976AAFFD0AAE7129A59D627423270D7",
+        "version":"0.0.4",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.4.jar?raw=true",
+        "requires":"^1.0.0"
+      },
+      {
+        "date":"2021-12-21",
+        "sha512sum":"4CCEEFD8576766C71BD4E08FE1E45B3137041FCBE34FA59CC7F4341377D0A9C66142CD43687C89BD4EA4432EAAEFBD039CB73D7AE0835E0A6F62725608C9CF35",
+        "version":"0.0.5",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/infernohptracking-0.0.5.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
     "name":"All Scythes Holy",
     "description":"Tmorph all scythe variants to holy scythe so that all scythes may be blessed with the golden tench.",
     "id":"allscythesholy-plugin",
