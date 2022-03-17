@@ -243,7 +243,6 @@
         "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.5.jar?raw=true",
         "requires":"^1.0.0"
       },
-      ,
       {
         "date":"2022-03-17",
         "sha512sum":"E43108E10A70543DBF7D2E3825799A3E2683D0F512A49B9B7750B1AFAC7182707849764B030CC98B2F93AEAD5864925C91C419CFC99D66F1EA132B5E4B374C89",
