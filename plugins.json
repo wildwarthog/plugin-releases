@@ -210,59 +210,9 @@
     "releases":[
       {
         "date":"2022-03-17",
-        "sha512sum":"CAE95EE76050FA5388C61C47BE75AB90FD6A663DC10584823B2DB56E62A74419D753CC87E7D37F4F7748AF573DF3E94888B5EFEABBAE40C199D1211C8EEAE8F8",
-        "version":"0.0.1",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.1.jar?raw=true",
-        "requires":"^1.0.0"
-      },
-      {
-        "date":"2022-03-17",
-        "sha512sum":"8612E586BB63ED0203B335E3FFD1AD158AF27C612F6BD246C6B42E9ADE71EF04625F9AAFA0E6397C17DF5EBA555C54B8AB268BB86F29471CC7FBE204A1CF1A7E",
-        "version":"0.0.2",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.2.jar?raw=true",
-        "requires":"^1.0.0"
-      },
-      {
-        "date":"2022-03-17",
-        "sha512sum":"2E9BA27A650203C6C2BDE8FDF4DD1664806803F7000123964E73A58804D2D0927CA2E0BE6494AE42958F2BC12BE2BFB6B7636C60C6C60C54931AC090587A435F",
-        "version":"0.0.3",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.3.jar?raw=true",
-        "requires":"^1.0.0"
-      },
-      {
-        "date":"2022-03-17",
-        "sha512sum":"F9D956CC41582F0942F821A57476C5A59B9A49953B48EAA48B55DF174DDC46C2B38F869ED7F3218F65FEB9F1A465C089EA622832A4ACEEE4F2DCB39316A7D0AF",
-        "version":"0.0.4",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.4.jar?raw=true",
-        "requires":"^1.0.0"
-      },
-      {
-        "date":"2022-03-17",
-        "sha512sum":"48C0C22DE9B803AD7BAD41FC47B0AFC799BF7AF7B014DD031F3309EA4370CEFBBE91E6AFD8B96C1D22753A241717B50E814C81A77053C2F3D149284B7BB44D28",
-        "version":"0.0.5",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.5.jar?raw=true",
-        "requires":"^1.0.0"
-      },
-      {
-        "date":"2022-03-17",
-        "sha512sum":"E43108E10A70543DBF7D2E3825799A3E2683D0F512A49B9B7750B1AFAC7182707849764B030CC98B2F93AEAD5864925C91C419CFC99D66F1EA132B5E4B374C89",
-        "version":"0.0.6",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.6.jar?raw=true",
-        "requires":"^1.0.0"
-      },
-      {
-        "date":"2022-03-17",
-        "sha512sum":"E33889B1AD0159A7A69388CB9D8E80A20AF0337E121F2BDE4E17F0AC3D530609741911172A6C23CA296E2CDF382DEA11B0640188A562585E9B6D8BD7DCD06D3C",
-        "version":"0.0.7",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.7.jar?raw=true",
-        "requires":"^1.0.0"
-      }
-      ,
-      {
-        "date":"2022-03-17",
-        "sha512sum":"FD3235FEC64212BFF5CA60A38D1E3AD6618DF3466EEA1001A38F1F879D9431490357F1E9AE603294DDABD1387180F6CA5AB04959E5EC3DE739F36BCD98D442C5",
-        "version":"0.0.8",
-        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.8.jar?raw=true",
+        "sha512sum":"B0BDFF39A2665EA4F7B6FEE2E397AF75AD5BEE6F30BFDCDFDE6197609ED01ACD7922F7FAF8CF67A4354FD2307E2BA3E3CED09D7FB9E0B100358B9BCDB83CC806",
+        "version":"1.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-1.0.0.jar?raw=true",
         "requires":"^1.0.0"
       }
     ]
