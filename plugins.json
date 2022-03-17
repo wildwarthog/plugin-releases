@@ -209,10 +209,17 @@
     "id":"coxpotions-plugin",
     "releases":[
       {
-        "date":"2022-03-01",
+        "date":"2022-03-17",
         "sha512sum":"CAE95EE76050FA5388C61C47BE75AB90FD6A663DC10584823B2DB56E62A74419D753CC87E7D37F4F7748AF573DF3E94888B5EFEABBAE40C199D1211C8EEAE8F8",
         "version":"0.0.1",
         "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      },
+      {
+        "date":"2022-03-17",
+        "sha512sum":"8612E586BB63ED0203B335E3FFD1AD158AF27C612F6BD246C6B42E9ADE71EF04625F9AAFA0E6397C17DF5EBA555C54B8AB268BB86F29471CC7FBE204A1CF1A7E",
+        "version":"0.0.2",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.2.jar?raw=true",
         "requires":"^1.0.0"
       }
     ]
