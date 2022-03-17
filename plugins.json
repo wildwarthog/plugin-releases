@@ -249,6 +249,13 @@
         "version":"0.0.6",
         "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.6.jar?raw=true",
         "requires":"^1.0.0"
+      },
+      {
+        "date":"2022-03-17",
+        "sha512sum":"42B3DE641935DB14808FF1597004A4609AD225CFE0F72BD15F44E832796A4F1AE2EA2F8D6872A5A3BD798610B4E7497DCFFA2031F0128057F0BB6B440AA33D38",
+        "version":"0.0.7",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.7.jar?raw=true",
+        "requires":"^1.0.0"
       }
     ]
   }
