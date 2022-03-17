@@ -200,5 +200,21 @@
         "requires":"^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Cox Potions",
+    "description":"Prioritize raids potions differently based on which room the player is in (solo CM).",
+    "id":"coxpotions-plugin",
+    "releases":[
+      {
+        "date":"2022-03-01",
+        "sha512sum":"CAE95EE76050FA5388C61C47BE75AB90FD6A663DC10584823B2DB56E62A74419D753CC87E7D37F4F7748AF573DF3E94888B5EFEABBAE40C199D1211C8EEAE8F8",
+        "version":"0.0.1",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxpotions-0.0.1.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
   }
 ]
