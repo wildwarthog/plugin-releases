@@ -216,5 +216,21 @@
         "requires":"^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"WildWarthog",
+    "name":"Cox Screen Markers",
+    "description":"Enable drawing of screen markers on top of the client near CoX chests.",
+    "id":"chestscreenmarker-plugin",
+    "releases":[
+      {
+        "date":"2022-03-17",
+        "sha512sum":"743B897A3E50BE8E629FF9F0C6A51EC216DA9BD199DE44136AB8E4656E9FBB1729136AE70E92FCEFA95CD38832B9152D1A26C2FA02F09134A3E167B1718BC9FE",
+        "version":"1.0.0",
+        "url":"https://github.com/wildwarthog/plugin-releases/blob/main/open-releases/coxscreenmarkers-1.0.0.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
   }
 ]
